@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "11283000000007077",
+      "name": "Eatsy",
+      "domain": {
+        "id": "50023497948",
+        "name": "eatsy-60034488580.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60034488580",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
