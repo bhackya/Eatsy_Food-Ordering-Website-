@@ -18,7 +18,7 @@ function App() {
     const script = document.createElement('script');
     script.src = "https://www.chatbase.co/embed.min.js";
     script.defer = true;
-    script.setAttribute("chatbotId", "tBSf0HBV2BubN3VGvyTrg");
+    script.setAttribute("chatbotId", "hk4ArsAkTseVkMws7EZZz");
     script.setAttribute("domain", "www.chatbase.co");
 
     // Append the script to the document head
@@ -26,7 +26,7 @@ function App() {
 
     // Set up chatbot config
     window.embeddedChatbotConfig = {
-      chatbotId: "tBSf0HBV2BubN3VGvyTrg",
+      chatbotId: "hk4ArsAkTseVkMws7EZZz",
       domain: "www.chatbase.co"
     };
 
